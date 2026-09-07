@@ -1,2 +1,1 @@
-# Synchronous-FIFO
-A pointer based synchronous First-In First-Out (FIFO) memory buffer. 
+![Simulation Waveform](Screenshot%202026-09-07%20195522.png)
